@@ -11,6 +11,7 @@ Rabbit
 ============
 1. [Breaking things with RabbitMQ 3.3](https://www.rabbitmq.com/blog/2014/04/02/breaking-things-with-rabbitmq-3-3/)
 2. [Access Control](https://www.rabbitmq.com/access-control.html)
+3. [Consumer Prefetch](https://www.rabbitmq.com/consumer-prefetch.html)
 
 Benchmarks
 ============
