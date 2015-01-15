@@ -13,6 +13,10 @@ Rabbit
 2. [Access Control](https://www.rabbitmq.com/access-control.html)
 3. [Consumer Prefetch](https://www.rabbitmq.com/consumer-prefetch.html)
 
+Rabbit Perf
+============
+1. [very fast and scalable topic routing](http://www.rabbitmq.com/blog/2010/09/14/very-fast-and-scalable-topic-routing-part-1/)
+
 Benchmarks
 ============
 1. [One click to deploy a RabbitMQ cluster handling over 1 million msg/sec](http://googlecloudplatform.blogspot.jp/2014/06/rabbitmq-on-google-compute-engine.html)
